@@ -1,0 +1,6 @@
+{
+  "name": "Vetor3D — Impressão 3D de Peças Mecânicas",
+  "description": "Fabricação aditiva de peças mecânicas sob medida e reposição técnica em PETG, ABS, Nylon PA12-CF e TPU com tolerância de ±0,1 mm.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
